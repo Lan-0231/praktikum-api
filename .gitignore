@@ -1,1 +1,4 @@
 node_modules/
+.env
+data/users.json
+data/api-keys.json
